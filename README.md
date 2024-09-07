@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 GIS developer<br>👯 I’m looking to collaborate on GIS, web development<br>🌱 I’m currently learning<br>
+🔭 GIS developer<br>👯 I’m looking to collaborate on GIS,full stack web development<br>🌱 I’m currently learning<br>
 
 
 ## 🌐 Socials:
